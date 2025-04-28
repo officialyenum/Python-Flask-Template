@@ -9,12 +9,7 @@ Designed for clean organization, modularity, and quick extension.
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
-## 🚀 Features
 
-- Clear separation of concerns (controllers, routes, models, templates, configs)
-- Easy-to-extend base structures
-- Pre-built login page and base HTML templates
-- Centralized app, database, and event configuration
 
 ## 🚀 Introduction
 
@@ -27,7 +22,12 @@ Perfect for:
 - Real-time apps (chat, live updates)
 - Scalable microservices
 
----
+## 🚀 Features
+
+- Clear separation of concerns (controllers, routes, models, templates, configs)
+- Easy-to-extend base structures
+- Pre-built login page and base HTML templates
+- Centralized app, database, and event configuration
 
 ## 🏗️ Project Structure
 
@@ -49,8 +49,6 @@ src/
 └── static/                # Static assets (CSS, JS, images)
 ```
 
----
-
 ## ⚡ Features
 
 - 🔥 Auto-detect MongoDB (PyMongo) or SQL (SQLAlchemy) from config
@@ -60,7 +58,6 @@ src/
 - 🔥 Support for CORS and multiple environments (dev, prod)
 - 🔥 Minimal, fast, ready to deploy
 
----
 
 ## 📦 Requirements
 
@@ -105,8 +102,6 @@ pip install -r requirements.txt
 python src/app.py
 ```
 
----
-
 ## 🧩 How To Use
 
 - **Add Routes:**  
@@ -124,9 +119,6 @@ python src/app.py
 - **Configuration:**  
   Update or add new configs in `src/config/` to suit your environment needs.
 
----
-
----
 
 ## ⚙️ Configuration
 
@@ -147,7 +139,6 @@ class DevelopmentConfig:
 
 You can modify multiple environments config class like `ProductionConfig`, `TestingConfig`, etc.
 
----
 
 ## 🚀 Running the App
 
@@ -205,13 +196,11 @@ You can easily add:
 
 Ready to scale as your app grows.
 
----
 
 ## 🧠 Credits
 
 Created with ❤️ to make Flask development **faster**, **cleaner**, and **more scalable**.
 
----
 
 ## 🔥 Planned Improvements
 - CLI generator for new modules (routes, models, etc.)
@@ -219,7 +208,6 @@ Created with ❤️ to make Flask development **faster**, **cleaner**, and **mor
 - Docker support
 - Testing suite with Pytest
 
----
 
 ## 📣 Feedback & Collaboration
 This is a solo development project, but I’m always open to feedback, ideas, or potential collaboration. If you're into python fullstack web development, feel free to open an issue or fork the project!
