@@ -1,11 +1,12 @@
 # Python Flask Starter Template
 
+A minimal yet scalable **Flask** template to help developers kickstart new projects **without the hassle of repetitive setup**.  
+Designed for clean organization, modularity, and quick extension.
+
 ![Flask](https://img.shields.io/badge/Framework-Flask-black?logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Realtime-Socket.IO-ffca28?logo=socketdotio&logoColor=black)
 
-A minimal yet scalable **Flask** template to help developers kickstart new projects **without the hassle of repetitive setup**.  
-Designed for clean organization, modularity, and quick extension.
 
 ## 🚀 Features
 
