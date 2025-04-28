@@ -24,4 +24,11 @@ def health():
     )
     
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app = App.get_app('development')
+    # Choose how to run
+    use_socketio = True
+
+    if use_socketio:
+        app.run_with_socketio()
+    else:
+        app.run_app()
