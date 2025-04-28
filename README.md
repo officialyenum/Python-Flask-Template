@@ -6,11 +6,6 @@ Designed for clean organization, modularity, and quick extension.
 ![Flask](https://img.shields.io/badge/Framework-Flask-black?logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Realtime-Socket.IO-ffca28?logo=socketdotio&logoColor=black)
-
-
-![Flask](https://img.shields.io/badge/Flask-Framework-yellow)
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![SocketIO](https://img.shields.io/badge/RealTime-Socket.IO-ff69b4)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
