@@ -192,9 +192,7 @@ Ready to scale as your app grows.
 
 
 ## 🧠 Credits
-
-Created with ❤️ to make Flask development **faster**, **cleaner**, and **more scalable**.
-
+Created with ❤️ from Yenum to make Flask development **faster**, **cleaner**, and **more scalable**.
 
 ## 🔥 Planned Improvements
 - CLI generator for new modules (routes, models, etc.)
@@ -208,8 +206,7 @@ This is a solo development project, but I’m always open to feedback, ideas, or
 
 ## 📜 License
 
-This project is licensed under the MIT License.
-# 🚀 Happy Building!
+This project is licensed under the MIT License. 🚀 Happy Building!
 
 
 
