@@ -7,9 +7,9 @@ import routes
 
 class App(Flask):
     def __init__(self, config_mode):
-        super().__init__(__name__)
+        super().__init__(__name__, template_folder='../templates', static_folder='../static')
         self.config.from_object(config[config_mode])
-
+        print(self.template_folder)
         # Initialize extensions
         self.mongo = None
         self.db = None
