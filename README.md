@@ -68,12 +68,6 @@ src/
 - Flask-SQLAlchemy
 - Eventlet or Gevent (for Socket.IO production use)
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 📦 Installation
 
 1. Clone the repository:
