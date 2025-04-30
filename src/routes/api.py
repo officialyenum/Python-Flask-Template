@@ -17,3 +17,5 @@ def health():
         ip=host_ip,
         status="Up"
     )
+    
+# Add your routes here ensure they return api json

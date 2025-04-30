@@ -7,3 +7,6 @@ bp = Blueprint('web', __name__)
 @bp.route('/')
 def index():
     return render_template("welcome.html")
+
+
+# Add your routes here ensure they return rendered templates
